@@ -8,10 +8,10 @@
 
 看效果是否满意
 ---
-![这里写图片描述](https://img-blog.csdn.net/20180822121735952?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxOTEwNjg5MzMx/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+![image](https://img-blog.csdn.net/20180822121735952?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxOTEwNjg5MzMx/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 
 
-## 上代码##
+## 上代码 ##
 直接先贴代码`BottomBar.kt`
 ```
 /**
