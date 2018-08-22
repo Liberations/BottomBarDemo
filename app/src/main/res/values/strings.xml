@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BottomBarDemo</string>
+    <string name="menu_home">首页</string>
+    <string name="menu_category">分类</string>
+    <string name="menu_coupon">花生小店</string>
+    <string name="menu_broke">花粉社区</string>
+    <string name="menu_me">我的</string>
+</resources>
